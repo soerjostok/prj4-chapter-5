@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: justify
+}
+.page-title {
+	color: midnightblue;
+	background-color: whitesmoke;
+	border: 1px solid #00143B;
+	text-align: center;
+	padding: 0.5em;
+}
+#opener {
+	font-weight: bold;
+}
+#image {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.my-container {
+	border: 1px solid #000;
+	padding: 0.5em;
+}
